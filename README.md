@@ -17,6 +17,10 @@ It was written to compare student assignment submissions for large projects and 
 
 On Line 37, the path for the output is hard-coded to a file on my desktop. **Change this** to suit your own needs.
 
+This script can be repurposed to compare other types of files (ex. HTML or JS). To do that, edit lines 11 and 20. 
+
+**Note**: With a language like HTML where the structure will be very similar between files, be mindful of false positives. 
+
 
 ## Known Issues (That I'm Too Lazy To Fix)
 
